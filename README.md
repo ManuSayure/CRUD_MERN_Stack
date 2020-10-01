@@ -28,7 +28,7 @@ mysql2
 nodemon
 sequelize-cli
 
-inicilia api
+inicia api
 nodemon server.js/ node server.js
 inicia api no endereço http://localhost:3333
 ------------------------------------------
