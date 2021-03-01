@@ -34,12 +34,12 @@ inicia api no endereço http://localhost:3333
 ------------------------------------------
 Banco Mysql:
 nome:
+
 ---------------------------------
 Api routes
-Verbo route
-get 
-post 
-put
-delete
+- get 
+- post 
+- put
+- delete
 
 
