@@ -30,6 +30,7 @@ sequelize-cli
 inicia api
 nodemon server.js/ node server.js
 inicia api no endereço http://localhost:3333
+
 ------------------------------------------
 Banco Mysql:
 nome:
